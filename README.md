@@ -1,5 +1,5 @@
-# Web3-User-Profiles-Part3
-😎🚀 Connect the User DB Smart Contract to the Web Frontend. Create your own IPFS Node and integrate to NextJS.
+# Web3-User-Profiles-Part4
+😎🚀 Final Full Web3 User Profile App that generates ERC Wallets and assigns the ERC Wallets to User Accounts. 
 
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
@@ -11,16 +11,18 @@
 
 Click for video:
 
-<a href="https://youtu.be/XUiU_eibBX0" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
+<a href="https://www.youtube.com/watch?v=D1wg0OldCKU" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
 
 <h3>Steps to use this Repo</h3>
 
-<h4>First: Deploy your own IPFS Node</h4>
+<h4>First: Create your NextJS App</h4>
 
-Watch tutorial video:  09:40 - 27:00 
+```shell
+npx create-next-app web3profiles
+```
 
-<h4>Then, Proceed to update your web front end previously created in part 1 tutorial</h4>
+<h4>Download all files in the repo and drop to your new project folder. Replace existing if necessary.</h4>
 
 1 - Add "Components folder from this repo to your project.
 
