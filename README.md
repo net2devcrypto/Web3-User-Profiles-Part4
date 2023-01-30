@@ -40,11 +40,11 @@ Follow the video tutorial for more info.
 
 If you're not familiar with MongoDB, please watch this tutorial below and refer to this repo for additional practice.
 
-<h5>Click for Video</h5>
+<h5>Click for Video:</h5>
 <a href="https://www.youtube.com/watch?v=lbAp42VM8a0&t=1479s" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
+<h5>MongoDB Github Repo:</h5>
 https://github.com/net2devcrypto/MongoDB-with-NextJS
-
 
 8 - Run project:
 
