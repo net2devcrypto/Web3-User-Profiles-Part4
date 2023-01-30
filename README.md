@@ -26,17 +26,17 @@ npx create-next-app web3profiles
 
 <h4>3 - Deploy the ERC-20 Token Smart Contract and update the config.js file located in the components folder accordingly.</h4>
 
-<h4>5 - Deploy the Smart Contract located below:</h4>
+<h4>4 - Deploy the Smart Contract located below:</h4>
 
 https://raw.githubusercontent.com/net2devcrypto/Web3-User-Profiles-Part2/main/Web3-UserProfiles-UserDB-Smart-Contract.sol
 
-<h4>6 - Grant the Minter role to the same updater wallet used in Part 3 of this tutorial.</h4>
+<h4>5 - Grant the Minter role to the same updater wallet used in Part 3 of this tutorial.</h4>
 
 Follow the video tutorial for more info.
 
-<h4>7 - Update the config.js file with the ERC-20 Token Smart Contract Address.</h4>
+<h4>6 - Update the config.js file with the ERC-20 Token Smart Contract Address.</h4>
 
-<h4>8 - Proceed to update mongo.js with the API key and API App Url Path of your MongoDB Atlas account.</h4>
+<h4>7 - Proceed to update mongo.js with the API key and API App Url Path of your MongoDB Atlas account.</h4>
 
 If you're not familiar with MongoDB, please watch this tutorial below and refer to this repo for additional practice.
 
