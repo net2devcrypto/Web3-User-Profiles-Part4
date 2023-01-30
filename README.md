@@ -26,23 +26,25 @@ npx create-next-app web3profiles
 
 <h4>3 - Deploy the ERC-20 Token Smart Contract and update the config.js file located in the components folder accordingly.</h4>
 
-
-
-5 - Deploy the Smart Contract located below to your favorite testnet:
+<h4>5 - Deploy the Smart Contract located below:</h4>
 
 https://raw.githubusercontent.com/net2devcrypto/Web3-User-Profiles-Part2/main/Web3-UserProfiles-UserDB-Smart-Contract.sol
 
-6 - Grant role to an updater wallet in the smart contract, Refer to video 36:25 - 39:33
+<h4>6 - Grant the Minter role to the same updater wallet used in Part 3 of this tutorial.</h4>
 
-7 - Update the config.js file located in the components folder in your project:
+Follow the video tutorial for more info.
 
-```shell
-export const client = ipfsHttpClient('http://IP-ADDRESS-OF-YOUR-IPFS-NODE:5001');
-export const userdbaddress = '0xSMART-CONTRACT-ADDRESS-FROM-STEP-5';
-const rpc = 'ADDRESS OF TESTNET DEPLOYED'; // refer to video 35:30 - 36:25
-const updaterwallet = 'KEY-OBTAINED-FROM-STEP-6';
-```
-CTRL + S to save file.
+<h4>7 - Update the config.js file with the ERC-20 Token Smart Contract Address.</h4>
+
+<h4>8 - Proceed to update mongo.js with the API key and API App Url Path of your MongoDB Atlas account.</h4>
+
+If you're not familiar with MongoDB, please watch this tutorial below and refer to this repo for additional practice.
+
+<h5>Click for Video</h5>
+<a href="https://www.youtube.com/watch?v=lbAp42VM8a0&t=1479s" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
+
+https://github.com/net2devcrypto/MongoDB-with-NextJS
+
 
 8 - Run project:
 
