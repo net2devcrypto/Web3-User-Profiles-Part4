@@ -16,25 +16,17 @@ Click for video:
 
 <h3>Steps to use this Repo</h3>
 
-<h4>First: Create your NextJS App</h4>
+<h4>1 - Create your NextJS App</h4>
 
 ```shell
 npx create-next-app web3profiles
 ```
 
-<h4>Download all files in the repo and drop to your new project folder. Replace existing if necessary.</h4>
+<h4>2 - Download all files in the repo and drop to your new project folder. Replace existing if necessary.</h4>
 
-1 - Add "Components folder from this repo to your project.
+<h4>3 - Deploy the ERC-20 Token Smart Contract and update the config.js file located in the components folder accordingly.</h4>
 
-2 - Replace index.js with the one attached to this repo.
 
-3 - Replace package.json with the one attached to this repo.
-
-4 - Navigate to your project folder and execute:
-
-```shell
-npm i
-```
 
 5 - Deploy the Smart Contract located below to your favorite testnet:
 
