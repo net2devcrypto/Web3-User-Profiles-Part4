@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const mongokey = 'A6waMQ6UiKv95TjvK8TcrlTkQZ6IuaDl9yQfWRZq1ujoAYSOTzZoyj5fpkidCU8I'
-const mongourl = 'https://data.mongodb-api.com/app/data-oumzz/endpoint/data/v1/action/'
+const mongokey = 'REPLACE WITH YOUR MONGO DB API KEY'
+const mongourl = 'https://data.mongodb-api.com/app/REPLACE-WITH-YOUR-MONGO-APP-PATH/endpoint/data/v1/action/'
 const mongoheader =  {
     "Content-Type": "application/json",
     "api-key": mongokey,
