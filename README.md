@@ -13,6 +13,10 @@ Click for video:
 
 <a href="https://www.youtube.com/watch?v=D1wg0OldCKU" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
 
+Make sure that you have followed all the playlist videos and practice with the provided github files for each part before proceeding with this tutorial.
+
+ENTIRE PLAYLIST:
+<a href="https://www.youtube.com/watch?v=WsJvf3LGtt0&list=PLLkrq2VBYc1bm0NkRrgCIR5n4dsr8Z1fK" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
 <h3>Steps to use this Repo</h3>
 
