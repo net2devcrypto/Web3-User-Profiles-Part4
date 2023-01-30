@@ -36,6 +36,8 @@ Follow the video tutorial for more info.
 
 <h4>6 - Proceed to update mongo.js with the API key and API App Url Path of your MongoDB Atlas account.</h4>
 
+CTRL + S to save!
+
 If you're not familiar with MongoDB, please watch this tutorial below and refer to this repo for additional practice.
 
 <h5>Click for Video:</h5>
@@ -45,7 +47,11 @@ If you're not familiar with MongoDB, please watch this tutorial below and refer 
 https://github.com/net2devcrypto/MongoDB-with-NextJS
 
 
-7 - Run project:
+<h4>7 - Update config.js with all required addresses and keys previously deployed on Part 3</h4>
+
+CTRL + S to save!
+
+<h4>8 - Run Application</h4>
 
 ```shell
 npm run dev
