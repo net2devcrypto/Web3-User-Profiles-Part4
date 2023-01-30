@@ -24,9 +24,11 @@ npx create-next-app web3profiles
 
 <h4>2 - Download all files in the repo and drop to your new project folder. Replace existing if necessary.</h4>
 
-<h4>3 - Deploy the ERC-20 Token Smart Contract and update the config.js file located in the components folder accordingly.</h4>
+<h4>3 - Deploy the ERC-20 Token Smart Contract.</h4>
 
-<h4>4 - Grant the Minter role to the same updater wallet used in Part 3 of this tutorial.</h4>
+https://raw.githubusercontent.com/net2devcrypto/Web3-User-Profiles-Part4/main/N2D-ERC20-Token-Sample-SmartContract.sol
+
+<h4>4 - Grant the Minter role in the smart contract to the same updater wallet used in Part 3 of this tutorial.</h4>
 
 Follow the video tutorial for more info.
 
